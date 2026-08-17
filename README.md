@@ -1,4 +1,5 @@
 # tan1
 My first repo
 <br>
-Author:-Tanishka Jaluka
+Author:- miss Tanishka Jaluka
+
